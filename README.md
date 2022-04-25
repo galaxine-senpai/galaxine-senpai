@@ -31,3 +31,11 @@ or send me a message on discord at gawaxine.exe#1015
 ![Ayden's Pinned Repo #1](https://github-readme-stats.vercel.app/api/pin/?username=galaxine-senpai&repo=microwave&theme=synthwave&show_owner=true)
 
 ![Ayden's Pinned Repo#2](https://github-readme-stats.vercel.app/api/pin/?username=galaxine-senpai&repo=microwave-website&theme=synthwave&show_owner=true)
+
+# Additional Thanks
+
+- [Allybe](https://github.com/Allybe) for assisting in the development in the [website.](https://github.com/galaxine-senpai/microwave-website)
+- [Fonta](https://github.com/Fonta22) for being assisting with [bot development](https://github.com/galaxine-senpai/microwave)
+- [yapudjus](https://github.com/yapudjus) for being my bro 🙂
+- [Sopy](https://github.com/sopyb) for assiting me through javascript (it is still mid no changing my mind Allison)
+- And you for reading this!
