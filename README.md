@@ -15,7 +15,7 @@ My pronouns are They/Them (but you can use any I don't mind)
 
 # If you ever need to contact me
 
-shoot me an email at [ayden@microwavebot.tech](mailto:contact-us@microwavebot.tech)
+shoot me an email at [ayden@microwavebot.tech](mailto:ayden@microwavebot.tech)
 
 or send me a message on discord at gawaxine.exe#1015
 
