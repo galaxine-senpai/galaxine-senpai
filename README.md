@@ -28,7 +28,7 @@ or send me a message on discord at gawaxine.exe#1015
 
 # My Pinned Repo's
 
-![Ayden's Pinned Repo #1](https://github-readme-stats.vercel.app/api/pin/?username=microwave-inc&repo=microwave&theme=synthwave&show_owner=true)
+![Ayden's Pinned Repo #1](https://github-readme-stats.vercel.app/api/pin/?username=microwave-inc&repo=microwave.js&theme=synthwave&show_owner=true)
 
 ![Ayden's Pinned Repo#2](https://github-readme-stats.vercel.app/api/pin/?username=microwave-inc&repo=microwave-website&theme=synthwave&show_owner=true)
 
