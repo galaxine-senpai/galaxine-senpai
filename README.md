@@ -1,10 +1,11 @@
 ### Hi there 👋
-My name is Ayden (or galaxine) I am the Founder of [Microwave Inc.](https://github.com/microwave-inc), I am a (sort of) new developer currently learning python and HTML!
+My name is Ayden (or galaxine) I am the Founder of [Microwave Inc.](https://github.com/microwave-inc), I am a (sort of) new developer currently learning python, javascript/typescript and HTML!
 
 My pronouns are They/Them (but you can use any I don't mind)
 
 # My Projects
 - [Microwave Bot](https://github.com/microwave-inc/microwave)
+- [Microwave Bot (JS)](https://github.com/microwave-inc/microwave.js)
 - [Microwave Bot's Website](https://github.com/microwave-inc/microwave-website) [(Here is the website link)](https://microwavebot.tech)
 
 # Languages I know
@@ -21,10 +22,9 @@ or send me a message on discord at gawaxine.exe#1015
 
 
 # Random Stats
-
 ![Ayden's Annual Stats](https://github-readme-stats.vercel.app/api?username=galaxine-senpai&theme=synthwave&show_icons=true)
-
-![Ayden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxine-senpai&theme=synthwave&layout=compact)
+![Ayden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxine-senpai&theme=synthwave)
+[![Ayden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=galaxinesenpai&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Pinned Repo's
 
