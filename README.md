@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Ayden (or galaxine) I am the Founder of [Microwave Inc.](https://github.com/microwave-inc), I am a proficient developer with python and sort of with JS, I know how to use HTML and CSS (CSS to an extent I forgot most of it)
+
 My pronouns are They/Them (but you can use any I don't mind)
 
 # My Projects
