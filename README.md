@@ -38,4 +38,5 @@ or send me a message on discord at gawaxine.exe#1015
 - [Fonta](https://github.com/Fonta22) for being assisting with [bot development](https://github.com/galaxine-senpai/microwave)
 - [yapudjus](https://github.com/yapudjus) for being my bro 🙂
 - [Sopy](https://github.com/sopyb) for assiting me through javascript (it is still mid no changing my mind Allison)
+- Linzie for being mine :)
 - And you for reading this!
