@@ -16,7 +16,7 @@ My pronouns are They/Them (but you can use any I don't mind)
 
 # If you ever need to contact me
 
-send me a message on discord at gawaxine.exe#1015 (DM's always open)
+send me a message on discord at gawaxine.exe#1015 (DM's always open) or on the listed <a href="mailto:insta.is.good1234@gmail.com">Email</a> and Instagram (I do not check my email as often as I do instagram)
 
 
 # Random Stats
