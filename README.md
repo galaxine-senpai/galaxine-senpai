@@ -6,7 +6,8 @@ My pronouns are They/Them (but you can use any I don't mind)
 # My Projects
 - [Microwave Bot](https://github.com/microwave-inc/microwave)
 - [Microwave Bot (JS)](https://github.com/microwave-inc/microwave.js)
-- [Microwave Bot's Website](https://github.com/microwave-inc/microwave-website) [(Here is the website link)](https://microwavebot.tech)
+- [Microwave Bot's Website](https://github.com/microwave-inc/microwave-website)
+- [NASA API Project](https://github.com/galaxine-senpai/NASA-API-Project)
 
 # Languages I know
 
