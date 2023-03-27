@@ -19,15 +19,15 @@ send me a message on discord at gawaxine.exe#1015 (DM's always open) or on the l
 
 
 # Random Stats
-![Ayden's Annual Stats](https://github-readme-stats.vercel.app/api?username=galaxine-senpai&theme=synthwave&show_icons=true)
-![Ayden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxine-senpai&theme=synthwave)
-[![Ayden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=galaxinesenpai&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Ayden's Annual Stats](https://github-stats-galaxine-senpai.vercel.app/api?username=galaxine-senpai&theme=synthwave&show_icons=true)
+![Ayden's Top Languages](https://github-stats-galaxine-senpai.vercel.app/api/top-langs/?username=galaxine-senpai&theme=synthwave)
+[![Ayden's wakatime stats](https://github-stats-galaxine-senpai.vercel.app/api/wakatime?username=galaxinesenpai&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Pinned Repo's
 
-![Ayden's Pinned Repo #1](https://github-readme-stats.vercel.app/api/pin/?username=microwave-inc&repo=microwave.js&theme=synthwave&show_owner=true)
+![Ayden's Pinned Repo #1](https://github-stats-galaxine-senpai.vercel.app/api/pin/?username=microwave-inc&repo=microwave.js&theme=synthwave&show_owner=true)
 
-![Ayden's Pinned Repo#2](https://github-readme-stats.vercel.app/api/pin/?username=microwave-inc&repo=microwave-website&theme=synthwave&show_owner=true)
+![Ayden's Pinned Repo#2](https://github-stats-galaxine-senpai.vercel.app/api/pin/?username=microwave-inc&repo=microwave-website&theme=synthwave&show_owner=true)
 
 # Additional Thanks
 
