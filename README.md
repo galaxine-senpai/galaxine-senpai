@@ -6,8 +6,8 @@ My pronouns are They/Them (but you can use any I don't mind)
 # My Projects
 - [Microwave Bot](https://github.com/microwave-inc/microwave)
 - [Microwave Bot (JS)](https://github.com/microwave-inc/microwave.js)
-- [Microwave Bot's Website](https://github.com/microwave-inc/microwave-website)
-- [NASA API Project](https://github.com/galaxine-senpai/NASA-API-Project)
+- [Microwave Bot's Website](https://github.com/microwave-inc/microwavebot-web)
+- [NASA API Project](https://github.com/galaxine-senpai/NASA-API-Project) (No longer developed)
 
 # Languages I know
 
@@ -16,7 +16,7 @@ My pronouns are They/Them (but you can use any I don't mind)
 
 # If you ever need to contact me
 
-send me a message on discord at gawaxine.exe (DM's always open) or on the listed <a href="mailto:insta.is.good1234@gmail.com">Email</a> and Instagram (I do not check my email as often as I do instagram)
+send me a message on discord at gawaxine.exe (DM's always open) or on the listed <a href="mailto:againes@microwavebot.com">Email</a> and Instagram (I do not check my email as often as I do instagram)
 
 
 # Random Stats
@@ -26,15 +26,15 @@ send me a message on discord at gawaxine.exe (DM's always open) or on the listed
 
 # My Pinned Repo's
 
-![Ayden's Pinned Repo #1](https://github-stats-galaxine-senpai.vercel.app/api/pin/?username=microwave-inc&repo=microwave.js&theme=synthwave&show_owner=true)
+![Microwave bot](https://github-stats-galaxine-senpai.vercel.app/api/pin/?username=microwave-inc&repo=microwave.js&theme=synthwave&show_owner=true)
 
-![Ayden's Pinned Repo#2](https://github-stats-galaxine-senpai.vercel.app/api/pin/?username=microwave-inc&repo=microwave-website&theme=synthwave&show_owner=true)
+![Microwave bot web](https://github-stats-galaxine-senpai.vercel.app/api/pin/?username=microwave-inc&repo=microwavebot-web&theme=synthwave&show_owner=true)
 
 # Additional Thanks
 
-- [Allybe](https://github.com/Allybe) for assisting in the development in the [website.](https://github.com/galaxine-senpai/microwave-website)
-- [Fonta](https://github.com/Fonta22) for being assisting with [bot development](https://github.com/galaxine-senpai/microwave)
-- [yapudjus](https://github.com/yapudjus) for being my bro 🙂
+- [Allybe](https://github.com/Allybe) for assisting in the development in the old Microwave bot website
+- [Fonta](https://github.com/Fonta22) for being assisting with Bot and Website development
+- [yapudjus](https://github.com/yapudjus) for being my bro 🙂 (& bot/website development)
 - [Sopy](https://github.com/sopyb) for assiting me through javascript (it is still mid no changing my mind Allison)
 - Linzie for being mine :)
 - And you for reading this!
