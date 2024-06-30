@@ -36,6 +36,6 @@ send me a message on discord at gawaxine.exe (DM's always open) or on the listed
 - [Allybe](https://github.com/Allybe) for assisting in the development in the old Microwave bot website
 - [Fonta](https://github.com/Fonta22) for being assisting with Bot and Website development
 - [yapudjus](https://github.com/yapudjus) for being my bro 🙂 (& bot/website development)
-- [Sopy](https://github.com/sopyb) for assiting me through javascript (it is still mid no changing my mind Allison)
-- Linzie even though we aren't together you still get a thanks from me.
+- [Sopy](https://github.com/sopyb) for assiting me through javascript
+- This spot stays empty for unclear reasons.
 - And you for reading this!
