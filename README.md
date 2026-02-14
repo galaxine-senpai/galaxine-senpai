@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ayden (or galaxine) I am the Founder of [Microwave Inc.](https://github.com/microwave-inc), I am a proficient developer with python and JS, I know how to use HTML and CSS (CSS to an extent I forgot most of it)
 
-My pronouns are They/Them (but you can use any I don't mind)
+My pronouns are He/Him/His (but you can use any I don't mind)
 
 # My Projects
 - [Microwave Bot](https://github.com/microwave-inc/microwave)
@@ -16,7 +16,7 @@ My pronouns are They/Them (but you can use any I don't mind)
 
 # If you ever need to contact me
 
-send me a message on discord at gawaxine.exe (DM's always open) or on the listed <a href="mailto:againes@microwavebot.com">Email</a> and Instagram (I do not check my email as often as I do instagram)
+send me a message on discord at gawaxine.exe (DM's always open) or on the listed <a href="mailto:ayden@gawaxines.website">Email</a> and Instagram (I do not check my email as often as I do instagram)
 
 
 # Random Stats
@@ -25,11 +25,6 @@ send me a message on discord at gawaxine.exe (DM's always open) or on the listed
   ![Ayden's Top Languages](https://github-stats-galaxine-senpai.vercel.app/api/top-langs/?username=galaxine-senpai&theme=onedark)
   
   ![Ayden's trophies](https://github-profile-trophy.vercel.app/?username=galaxine-senpai&theme=onedark)
-
-# My Pinned Repo's
-
-![Microwave bot](https://github-stats-galaxine-senpai.vercel.app/api/pin/?username=microwave-inc&repo=microwave.js&theme=onedark&show_owner=true)
-![Microwave bot web](https://github-stats-galaxine-senpai.vercel.app/api/pin/?username=microwave-inc&repo=microwavebot-web&theme=onedark&show_owner=true)
 
 # Additional Thanks
 
